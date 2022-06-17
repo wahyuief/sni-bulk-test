@@ -1,0 +1,15 @@
+api.axis.co.id
+click.axis.co.id
+go.axis.co.id
+sit.api.axis.co.id
+staging.api.axis.co.id
+staging-api.grosir.axis.co.id
+api.grosir.axis.co.id
+uat-api.grosir.axis.co.id
+sit-api.grosir.axis.co.id
+dp.axis.co.id
+games.axis.co.id
+prod-mig-api.axis.co.id
+staging-bss.api.axis.co.id
+jenkins.sit.api.axis.co.id
+axis.co.id
